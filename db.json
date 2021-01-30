@@ -1,28 +1,102 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://s1.1zoom.me/b5050/973/Harry_Potter_Castles_Fantastic_world_Hogwarts_516177_2560x1440.jpg",
+  "title": "Quiz Harry Potter 🧙🏼‍♂️",
+  "description": "Teste os seus conhecimentos sobre Harry Potter e vamos ver é um bruxo ou um trouxa",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media0.giphy.com/media/lVBUOl3PAlN7i/giphy.gif?cid=ecf05e47gofevkwxm4hocbragirfrs752r0oyd7nva5lrsgf&rid=giphy.gif",
+      "title": "Qual feitiço é usado contra os dementadores?",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Lumos maxima",
+        "Estupefaço",
+        "Expecto patronum",
+        "Expelliarmus"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media2.giphy.com/media/l01fjs9HRzU08/giphy.gif?cid=ecf05e47nndw7xtrvjgkkz9u2ddxriiqoervkxk3u7nevg6p&rid=giphy.gif",
+      "title": "Com quem Harry foi ao baile de inverno?",
+      "description": "💃🕺 💃🕺",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Parvati Patil",
+        "Hermione Granger",
+        "Cho Chang",
+        "Padma Patil"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/OUwzqE4ZOk5Bm/giphy.gif?cid=ecf05e47tp44rqxu57ra0jwadjm279xyoqt7i0z2u7gut4xi&rid=giphy.gif",
+      "title": "Qual feitiço destranca e qual tranca portas e passagem?",
+      "description": "Essa é fácil ",
+      "answer": 2,
+      "alternatives": [
+        "Alohomora e Clypeus",
+        "Depulso e Densalgio",
+        "Alohomora e Colloportus",
+        "Aguamenti e Aparecium"
+      ]
+    },
+    {
+      "image": "https://media4.giphy.com/media/UAJpANY0bGPhS/giphy.gif",
+      "title": "Quais são as 3 Maldições imperdoáveis?",
+      "description": "Cuidado para não ir para Azkaban",
+      "answer": 3,
+      "alternatives": [
+        "Abaffiato, Accio e Imperius",
+        "Avada Kedavra, Petrificus Totalus e Cruciatus",
+        "Lumos, Ridikkulus e Reparo",
+        "Cruciatus, Imperius e Avada Kedavra"
+      ]
+    },
+    {
+      "image": "https://pa1.narvii.com/6292/3556d8f61067bab3a3a478a16ba7123bbcb9b124_hq.gif",
+      "title": "O que um elfo doméstico precisa receber para ser livre?",
+      "description": "Dobby não quis matar. Apenas mutilar ou causar um ferimento grave",
+      "answer": 1,
+      "alternatives": [
+        "Uma meia",
+        "Alguma peça de roupa",
+        "Um feitiço",
+        "Comida"
+      ]
+    },
+    {
+      "image": "https://pa1.narvii.com/6315/2374a40ddc746f61e45072df524dd063a3f78e50_hq.gif",
+      "title": "Qual dragão Harry Potter enfrentou durante o Torneio Tribruxo?",
+      "description": "Uma pergunta quente",
+      "answer": 0,
+      "alternatives": [
+        "Rabo-Córneo Húngaro",
+        "Focinho-Curto Sueco",
+        "Meteoro-Chinês",
+        "Verde-Galês Comum"
+      ]
+    },
+    {
+      "image": "https://media1.giphy.com/media/EXmLHydTBn7gc/giphy.gif",
+      "title": "Do que é feita a varinha das varinhas?",
+      "description": "A varinha que foi usada por Dumbledore",
+      "answer": 3,
+      "alternatives": [
+        "Castanheira e fibra cardíaca de dragão",
+        "Azevinho de pena de Fênix",
+        "Olmo e núcleo de fibra de coração de dragão",
+        "madeira de sabugueiro com o núcleo de pelo da cauda de testrálio"
+      ]
+    },
+    {
+      "image": "https://media0.giphy.com/media/AUarrmo6rpyX6/giphy.gif?cid=ecf05e47idgr8o1q3aesupsrhwoak9i3ak6sxl2wyc4nfkcu&rid=giphy.gif",
+      "title": "Qual dos Weasley morre?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+        "Fred Weasley",
+        "Jorge Weasley",
+        "Ronald Weasley",
+        "Carlos Weasley"
       ]
     }
   ],
