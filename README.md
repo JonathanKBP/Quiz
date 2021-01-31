@@ -14,10 +14,6 @@
 
 O **AluraQuiz** é uma aplicação que foi desenvolvido durante o evento imersão Alura, sendo uma aplicação web de quiz.
 
-<p align=center>
-  <img src=".github/video.gif">
-</p>
-
 ## 🛠 Deploy online
 Para testar a aplicação basta clicar [aqui](https://quiz-git-main.jonathankbp.vercel.app/).
 
